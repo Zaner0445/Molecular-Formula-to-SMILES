@@ -8,9 +8,9 @@ import pandas as pd
 import time
 
 # Set file paths
-input_file = r"path_to_input_file.csv"
-output_file = r"path_to_output_file.csv"
-error_log = r"path_to_error_log.txt"
+input_file = r""
+output_file = r""
+error_log = r""
 
 # Read the input CSV
 df = pd.read_csv(input_file)
